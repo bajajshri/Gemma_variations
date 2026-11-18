@@ -1,0 +1,679 @@
+{
+  "seed": 43,
+  "val_fraction": 0.1,
+  "train": [
+    "10",
+    "100",
+    "10007",
+    "1080",
+    "11",
+    "1184",
+    "12",
+    "120",
+    "1228",
+    "1232",
+    "1259",
+    "1260",
+    "132",
+    "135",
+    "1399",
+    "1400",
+    "145",
+    "1497",
+    "1513",
+    "158",
+    "16",
+    "161",
+    "16328",
+    "16389",
+    "1661",
+    "1727",
+    "174",
+    "1952",
+    "1998",
+    "20203",
+    "205",
+    "2148",
+    "219",
+    "23",
+    "2542",
+    "2554",
+    "2600",
+    "2641",
+    "2680",
+    "2701",
+    "28054",
+    "2852",
+    "3207",
+    "3296",
+    "3300",
+    "34901",
+    "35",
+    "36",
+    "36034",
+    "37106",
+    "37683",
+    "394",
+    "408",
+    "4085",
+    "41",
+    "41445",
+    "42324",
+    "43",
+    "4300",
+    "4363",
+    "45",
+    "45109",
+    "45188",
+    "49008",
+    "514",
+    "5197",
+    "5200",
+    "55",
+    "61985",
+    "64317",
+    "6593",
+    "67098",
+    "67979",
+    "730",
+    "7370",
+    "74",
+    "76",
+    "768",
+    "829",
+    "84",
+    "844",
+    "8492",
+    "8800",
+    "98",
+    "996"
+  ],
+  "val": [
+    "1342",
+    "2160",
+    "244",
+    "25344",
+    "2591",
+    "27827",
+    "2814",
+    "345",
+    "46",
+    "6761"
+  ],
+  "dropped": {
+    "2000": "language: Spanish",
+    "62383": "language: Portuguese"
+  },
+  "books": {
+    "10": {
+      "title": "The King James Version of the Bible",
+      "author": null,
+      "language": "English",
+      "group": "king james version of the bible"
+    },
+    "100": {
+      "title": "The Complete Works of William Shakespeare",
+      "author": "William Shakespeare",
+      "language": "English",
+      "group": "complete works of william shakespeare"
+    },
+    "10007": {
+      "title": "Carmilla",
+      "author": "Joseph Sheridan Le Fanu",
+      "language": "English",
+      "group": "carmilla"
+    },
+    "1080": {
+      "title": "A Modest Proposal",
+      "author": "Jonathan Swift",
+      "language": "English",
+      "group": "modest proposal"
+    },
+    "11": {
+      "title": "Alice's Adventures in Wonderland",
+      "author": "Lewis Carroll",
+      "language": "English",
+      "group": "alice s adventures in wonderland"
+    },
+    "1184": {
+      "title": "The Count of Monte Cristo",
+      "author": "Alexandre Dumas",
+      "language": "English",
+      "group": "count of monte cristo"
+    },
+    "12": {
+      "title": "Through the Looking-Glass",
+      "author": "Lewis Carroll",
+      "language": "English",
+      "group": "through the looking glass"
+    },
+    "120": {
+      "title": "Treasure Island",
+      "author": "Robert Louis Stevenson",
+      "language": "English",
+      "group": "treasure island"
+    },
+    "1228": {
+      "title": "On the Origin of Species By Means of Natural Selection",
+      "author": "Charles Darwin",
+      "language": "English",
+      "group": "on the origin of species by means of natural selection"
+    },
+    "1232": {
+      "title": "The Prince",
+      "author": "Niccolò Machiavelli",
+      "language": "English",
+      "group": "prince"
+    },
+    "1259": {
+      "title": "Twenty years after",
+      "author": "Alexandre Dumas",
+      "language": "English",
+      "group": "twenty years after"
+    },
+    "1260": {
+      "title": "Jane Eyre: An Autobiography",
+      "author": "Charlotte Brontë",
+      "language": "English",
+      "group": "jane eyre"
+    },
+    "132": {
+      "title": "The Art of War",
+      "author": "active 6th century B.C. Sunzi",
+      "language": "English",
+      "group": "art of war"
+    },
+    "1342": {
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "language": "English",
+      "group": "pride and prejudice"
+    },
+    "135": {
+      "title": "Les Misérables",
+      "author": "Victor Hugo",
+      "language": "English",
+      "group": "les mis rables"
+    },
+    "1399": {
+      "title": "Anna Karenina",
+      "author": "graf Leo Tolstoy",
+      "language": "English",
+      "group": "anna karenina"
+    },
+    "1400": {
+      "title": "Great Expectations",
+      "author": "Charles Dickens",
+      "language": "English",
+      "group": "great expectations"
+    },
+    "145": {
+      "title": "Middlemarch",
+      "author": "George Eliot",
+      "language": "English",
+      "group": "middlemarch"
+    },
+    "1497": {
+      "title": "The Republic",
+      "author": "Plato",
+      "language": "English",
+      "group": "republic"
+    },
+    "1513": {
+      "title": "Romeo and Juliet",
+      "author": "William Shakespeare",
+      "language": "English",
+      "group": "romeo and juliet"
+    },
+    "158": {
+      "title": "Emma",
+      "author": "Jane Austen",
+      "language": "English",
+      "group": "emma"
+    },
+    "16": {
+      "title": "Peter Pan",
+      "author": "J. M. Barrie",
+      "language": "English",
+      "group": "peter pan"
+    },
+    "161": {
+      "title": "Sense and Sensibility",
+      "author": "Jane Austen",
+      "language": "English",
+      "group": "sense and sensibility"
+    },
+    "16328": {
+      "title": "Beowulf: An Anglo-Saxon Epic Poem",
+      "author": null,
+      "language": "English",
+      "group": "beowulf"
+    },
+    "16389": {
+      "title": "The Enchanted April",
+      "author": "Elizabeth Von Arnim",
+      "language": "English",
+      "group": "enchanted april"
+    },
+    "1661": {
+      "title": "The Adventures of Sherlock Holmes",
+      "author": "Arthur Conan Doyle",
+      "language": "English",
+      "group": "adventures of sherlock holmes"
+    },
+    "1727": {
+      "title": "The Odyssey",
+      "author": "Homer",
+      "language": "English",
+      "group": "odyssey"
+    },
+    "174": {
+      "title": "The Picture of Dorian Gray",
+      "author": "Oscar Wilde",
+      "language": "English",
+      "group": "picture of dorian gray"
+    },
+    "1952": {
+      "title": "The Yellow Wallpaper",
+      "author": "Charlotte Perkins Gilman",
+      "language": "English",
+      "group": "yellow wallpaper"
+    },
+    "1998": {
+      "title": "Thus Spake Zarathustra: A Book for All and None",
+      "author": "Friedrich Wilhelm Nietzsche",
+      "language": "English",
+      "group": "thus spake zarathustra"
+    },
+    "20203": {
+      "title": "Autobiography of Benjamin Franklin",
+      "author": "Benjamin Franklin",
+      "language": "English",
+      "group": "autobiography of benjamin franklin"
+    },
+    "205": {
+      "title": "Walden, and On The Duty Of Civil Disobedience",
+      "author": "Henry David Thoreau",
+      "language": "English",
+      "group": "walden and on the duty of civil disobedience"
+    },
+    "2148": {
+      "title": "The Works of Edgar Allan Poe — Volume 2",
+      "author": "Edgar Allan Poe",
+      "language": "English",
+      "group": "works of edgar allan poe volume 2"
+    },
+    "2160": {
+      "title": "The Expedition of Humphry Clinker",
+      "author": "T. Smollett",
+      "language": "English",
+      "group": "expedition of humphry clinker"
+    },
+    "219": {
+      "title": "Heart of Darkness",
+      "author": "Joseph Conrad",
+      "language": "English",
+      "group": "heart of darkness"
+    },
+    "23": {
+      "title": "Narrative of the Life of Frederick Douglass, an American Slave",
+      "author": "Frederick Douglass",
+      "language": "English",
+      "group": "narrative of the life of frederick douglass an american slave"
+    },
+    "244": {
+      "title": "A Study in Scarlet",
+      "author": "Arthur Conan Doyle",
+      "language": "English",
+      "group": "study in scarlet"
+    },
+    "25344": {
+      "title": "The Scarlet Letter",
+      "author": "Nathaniel Hawthorne",
+      "language": "English",
+      "group": "scarlet letter"
+    },
+    "2542": {
+      "title": "A Doll's House : a play",
+      "author": "Henrik Ibsen",
+      "language": "English",
+      "group": "doll s house"
+    },
+    "2554": {
+      "title": "Crime and Punishment",
+      "author": "Fyodor Dostoyevsky",
+      "language": "English",
+      "group": "crime and punishment"
+    },
+    "2591": {
+      "title": "Grimms' Fairy Tales",
+      "author": "Jacob Grimm",
+      "language": "English",
+      "group": "grimms fairy tales"
+    },
+    "2600": {
+      "title": "War and Peace",
+      "author": "graf Leo Tolstoy",
+      "language": "English",
+      "group": "war and peace"
+    },
+    "2641": {
+      "title": "A Room with a View",
+      "author": "E. M. Forster",
+      "language": "English",
+      "group": "room with a view"
+    },
+    "2680": {
+      "title": "Meditations",
+      "author": "Emperor of Rome Marcus Aurelius",
+      "language": "English",
+      "group": "meditations"
+    },
+    "2701": {
+      "title": "Moby Dick; Or, The Whale",
+      "author": "Herman Melville",
+      "language": "English",
+      "group": "moby dick"
+    },
+    "27827": {
+      "title": "The Kama Sutra of Vatsyayana",
+      "author": "Vatsyayana",
+      "language": "English",
+      "group": "kama sutra of vatsyayana"
+    },
+    "28054": {
+      "title": "The Brothers Karamazov",
+      "author": "Fyodor Dostoyevsky",
+      "language": "English",
+      "group": "brothers karamazov"
+    },
+    "2814": {
+      "title": "Dubliners",
+      "author": "James Joyce",
+      "language": "English",
+      "group": "dubliners"
+    },
+    "2852": {
+      "title": "The Hound of the Baskervilles",
+      "author": "Arthur Conan Doyle",
+      "language": "English",
+      "group": "hound of the baskervilles"
+    },
+    "3207": {
+      "title": "Leviathan",
+      "author": "Thomas Hobbes",
+      "language": "English",
+      "group": "leviathan"
+    },
+    "3296": {
+      "title": "The Confessions of St. Augustine",
+      "author": "Saint of Hippo Augustine",
+      "language": "English",
+      "group": "confessions of st augustine"
+    },
+    "3300": {
+      "title": "An Inquiry into the Nature and Causes of the Wealth of Nations",
+      "author": "Adam Smith",
+      "language": "English",
+      "group": "inquiry into the nature and causes of the wealth of nations"
+    },
+    "345": {
+      "title": "Dracula",
+      "author": "Bram Stoker",
+      "language": "English",
+      "group": "dracula"
+    },
+    "34901": {
+      "title": "On Liberty",
+      "author": "John Stuart Mill",
+      "language": "English",
+      "group": "on liberty"
+    },
+    "35": {
+      "title": "The Time Machine",
+      "author": "H. G. Wells",
+      "language": "English",
+      "group": "time machine"
+    },
+    "36": {
+      "title": "The war of the worlds",
+      "author": "H. G. Wells",
+      "language": "English",
+      "group": "war of the worlds"
+    },
+    "36034": {
+      "title": "White nights, and other stories",
+      "author": "Fyodor Dostoyevsky",
+      "language": "English",
+      "group": "white nights and other stories"
+    },
+    "37106": {
+      "title": "Little Women; Or, Meg, Jo, Beth, and Amy",
+      "author": "Louisa May Alcott",
+      "language": "English",
+      "group": "little women"
+    },
+    "37683": {
+      "title": "Chambers's Twentieth Century Dictionary (part 1 of 4: A-D)",
+      "author": null,
+      "language": "English",
+      "group": "chambers s twentieth century dictionary"
+    },
+    "394": {
+      "title": "Cranford",
+      "author": "Elizabeth Cleghorn Gaskell",
+      "language": "English",
+      "group": "cranford"
+    },
+    "408": {
+      "title": "The Souls of Black Folk",
+      "author": "W. E. B. Du Bois",
+      "language": "English",
+      "group": "souls of black folk"
+    },
+    "4085": {
+      "title": "The Adventures of Roderick Random",
+      "author": "T. Smollett",
+      "language": "English",
+      "group": "adventures of roderick random"
+    },
+    "41": {
+      "title": "The Legend of Sleepy Hollow",
+      "author": "Washington Irving",
+      "language": "English",
+      "group": "legend of sleepy hollow"
+    },
+    "41445": {
+      "title": "Frankenstein; or, The modern Prometheus",
+      "author": "Mary Wollstonecraft Shelley",
+      "language": "English",
+      "group": "frankenstein"
+    },
+    "42324": {
+      "title": "Frankenstein; or, The modern Prometheus",
+      "author": "Mary Wollstonecraft Shelley",
+      "language": "English",
+      "group": "frankenstein"
+    },
+    "43": {
+      "title": "The strange case of Dr. Jekyll and Mr. Hyde",
+      "author": "Robert Louis Stevenson",
+      "language": "English",
+      "group": "strange case of dr jekyll and mr hyde"
+    },
+    "4300": {
+      "title": "Ulysses",
+      "author": "James Joyce",
+      "language": "English",
+      "group": "ulysses"
+    },
+    "4363": {
+      "title": "Beyond Good and Evil",
+      "author": "Friedrich Wilhelm Nietzsche",
+      "language": "English",
+      "group": "beyond good and evil"
+    },
+    "45": {
+      "title": "Anne of Green Gables",
+      "author": "L. M. Montgomery",
+      "language": "English",
+      "group": "anne of green gables"
+    },
+    "45109": {
+      "title": "The Enchiridion",
+      "author": "Epictetus",
+      "language": "English",
+      "group": "enchiridion"
+    },
+    "45188": {
+      "title": "The International Development of China",
+      "author": "Yat-sen Sun",
+      "language": "English",
+      "group": "international development of china"
+    },
+    "46": {
+      "title": "A Christmas Carol in Prose; Being a Ghost Story of Christmas",
+      "author": "Charles Dickens",
+      "language": "English",
+      "group": "christmas carol in prose"
+    },
+    "49008": {
+      "title": "The Works of William Shakespeare [Cambridge Edition] [Vol. 8 of 9]",
+      "author": "William Shakespeare",
+      "language": "English",
+      "group": "works of william shakespeare"
+    },
+    "514": {
+      "title": "Little Women",
+      "author": "Louisa May Alcott",
+      "language": "English",
+      "group": "little women"
+    },
+    "5197": {
+      "title": "My Life — Volume 1",
+      "author": "Richard Wagner",
+      "language": "English",
+      "group": "my life volume 1"
+    },
+    "5200": {
+      "title": "Metamorphosis",
+      "author": "Franz Kafka",
+      "language": "English",
+      "group": "metamorphosis"
+    },
+    "55": {
+      "title": "The Wonderful Wizard of Oz",
+      "author": "L. Frank Baum",
+      "language": "English",
+      "group": "wonderful wizard of oz"
+    },
+    "61985": {
+      "title": "Harrods for Everything",
+      "author": "Harrods Ltd.",
+      "language": "English",
+      "group": "harrods for everything"
+    },
+    "64317": {
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "language": "English",
+      "group": "great gatsby"
+    },
+    "6593": {
+      "title": "History of Tom Jones, a Foundling",
+      "author": "Henry Fielding",
+      "language": "English",
+      "group": "history of tom jones a foundling"
+    },
+    "67098": {
+      "title": "Winnie-the-Pooh",
+      "author": "A. A. Milne",
+      "language": "English",
+      "group": "winnie the pooh"
+    },
+    "6761": {
+      "title": "The Adventures of Ferdinand Count Fathom — Complete",
+      "author": "T. Smollett",
+      "language": "English",
+      "group": "adventures of ferdinand count fathom complete"
+    },
+    "67979": {
+      "title": "The Blue Castle: a novel",
+      "author": "L. M. Montgomery",
+      "language": "English",
+      "group": "blue castle"
+    },
+    "730": {
+      "title": "Oliver Twist",
+      "author": "Charles Dickens",
+      "language": "English",
+      "group": "oliver twist"
+    },
+    "7370": {
+      "title": "Second Treatise of Government",
+      "author": "John Locke",
+      "language": "English",
+      "group": "second treatise of government"
+    },
+    "74": {
+      "title": "The Adventures of Tom Sawyer, Complete",
+      "author": "Mark Twain",
+      "language": "English",
+      "group": "adventures of tom sawyer complete"
+    },
+    "76": {
+      "title": "Adventures of Huckleberry Finn",
+      "author": "Mark Twain",
+      "language": "English",
+      "group": "adventures of huckleberry finn"
+    },
+    "768": {
+      "title": "Wuthering Heights",
+      "author": "Emily Brontë",
+      "language": "English",
+      "group": "wuthering heights"
+    },
+    "829": {
+      "title": "Gulliver's Travels into Several Remote Nations of the World",
+      "author": "Jonathan Swift",
+      "language": "English",
+      "group": "gulliver s travels into several remote nations of the world"
+    },
+    "84": {
+      "title": "Frankenstein; or, The modern Prometheus",
+      "author": "Mary Wollstonecraft Shelley",
+      "language": "English",
+      "group": "frankenstein"
+    },
+    "844": {
+      "title": "The Importance of Being Earnest: A Trivial Comedy for Serious People",
+      "author": "Oscar Wilde",
+      "language": "English",
+      "group": "importance of being earnest"
+    },
+    "8492": {
+      "title": "The King in Yellow",
+      "author": "Robert W. Chambers",
+      "language": "English",
+      "group": "king in yellow"
+    },
+    "8800": {
+      "title": "The divine comedy",
+      "author": "Dante Alighieri",
+      "language": "English",
+      "group": "divine comedy"
+    },
+    "98": {
+      "title": "A Tale of Two Cities",
+      "author": "Charles Dickens",
+      "language": "English",
+      "group": "tale of two cities"
+    },
+    "996": {
+      "title": "Don Quixote",
+      "author": "Miguel de Cervantes Saavedra",
+      "language": "English",
+      "group": "don quixote"
+    }
+  }
+}
